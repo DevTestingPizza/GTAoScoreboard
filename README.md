@@ -29,5 +29,5 @@ Pressing it again will hide the scoreboard. If you don't hide it yourself, then 
 
 |Page 1|Page 2|
 |:|:|
-|![](https://www.vespura.com/hi/i/5881228.png)|![](https://www.vespura.com/hi/i/7a3c1e4.png)|
+|[screenshot](https://www.vespura.com/hi/i/5881228.png)|[screenshot](https://www.vespura.com/hi/i/7a3c1e4.png)|
 
