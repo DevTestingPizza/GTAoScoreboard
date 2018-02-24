@@ -28,6 +28,6 @@ Pressing it again will hide the scoreboard. If you don't hide it yourself, then 
 **Of course the `Players Online (1)` will show the accurate online player count, and the players won't all be called `Player #`, that's just for this demo.**
 
 |Page 1|Page 2|
-|:|:|
-|[screenshot](https://www.vespura.com/hi/i/5881228.png)|[screenshot](https://www.vespura.com/hi/i/7a3c1e4.png)|
+|:-:|:-:|
+|![](https://www.vespura.com/hi/i/5881228.png)|![](https://www.vespura.com/hi/i/7a3c1e4.png)|
 
